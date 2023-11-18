@@ -33,8 +33,8 @@ Splitting the data into test and train
 
 ## PROGRAM:
 ```
-Name: Bharathwaj R
-Reg NO: 212222240019
+Name:Shashin prasad.s
+Reg NO: 212222230144
 ```
 ```
 #importing libraries
